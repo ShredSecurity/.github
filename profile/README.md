@@ -4,7 +4,7 @@
 
 We provide top-tier security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
 
-### Specializations
+#### Specializations
 
 - DeFi Protocols
 - Cross-chain And L2 Protocols
@@ -12,7 +12,7 @@ We provide top-tier security audits for blockchain and DeFi protocols across dif
 - NFT & Gaming
 - DAO & Governance
 
-### Languages We Work With:
+##### Languages We Work With:
 
 Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
@@ -29,6 +29,8 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
+
+## Check our full portfolio [here](https://github.com/ShredSecurity/audits/blob/main/README.md)
 
 ## 📩 Work With Us
 
