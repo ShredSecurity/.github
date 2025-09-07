@@ -1,4 +1,4 @@
-# Shred Security - Portfolio
+# Shred Security
 
 ## About Us
 
