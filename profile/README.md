@@ -1,5 +1,7 @@
 # Shred Security
 Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at shredsec.xyz
+
+###### Referral Program: Get 10% of the total audit cost on referring Shred Security for projects.
 ## About Us
 
 We provide top-tier security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
