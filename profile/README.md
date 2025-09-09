@@ -31,6 +31,9 @@ Solidity, Rust, Go, Clarity, Python, Move, Vyper
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
 
+#### Lead Security Researchers
+- [**0xrex**](https://x.com/jvorex_)
+
 ## Check our full portfolio 
 [here](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
 
