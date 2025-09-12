@@ -3,19 +3,19 @@ Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at shr
 
 ## About Us
 
-We provide top-tier security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
+We provide high quality security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
 
-#### Specializations
+### Specializations
 
-- DeFi Protocols
-- Cross-chain And L2 Protocols
-- Blockchain/DLT
+- DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps etc.
+- Cross-chain: Bridges, Crosschain messaging, Cross-chain Apps etc.
+- Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban etc.
 - NFT & Gaming
 - DAO & Governance
 
-##### Languages We Work With:
+### Languages We Audit:
 
-Solidity, Rust, Go, Clarity, Python, Move, Vyper
+Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ## Our Track Record
 
