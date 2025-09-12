@@ -3,7 +3,7 @@ Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at shr
 
 ## About Us
 
-We provide high quality security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
+Shred Security provides high quality security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
 
 ### Specializations
 
