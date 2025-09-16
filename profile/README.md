@@ -1,5 +1,5 @@
 # Shred Security
-Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at shredsec.xyz
+Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at [shredsec.xyz](https://shredsec.xyz)
 
 ## About Us
 
@@ -10,8 +10,6 @@ Shred Security provides high quality security audits for blockchain and DeFi pro
 - DeFi Protocols: Lending, Staking, Stablecoins, AMMs, Perps etc.
 - Cross-chain: Bridges, Crosschain messaging, Cross-chain Apps etc.
 - Blockchain/DLT: Cosmos, Layer 1, Layer 2, OP stack, Soroban etc.
-- NFT & Gaming
-- DAO & Governance
 
 ### Languages We Audit:
 
