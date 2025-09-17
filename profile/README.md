@@ -24,8 +24,9 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 * * *
 
-## Founding Security Researchers
+## The Team
 
+#### Founding Security Researchers
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
 
