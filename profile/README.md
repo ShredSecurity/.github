@@ -32,6 +32,9 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 #### Lead Security Researchers
 - [**0xrex**](https://x.com/jvorex_)
 
+#### Security Researchers
+- [**chupinexx**](https://x.com/chupinexx)
+
 ## Check our full portfolio 
 [here](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
 
