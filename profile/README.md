@@ -52,7 +52,7 @@ If you're serious about the security of your protocol and want your code audited
 
 ****
 
-#### Referral Program: Get 20% of the total audit cost on referring Shred Security to projects.
+#### Referral Program: Get 10% of the total audit cost on referring Shred Security to projects.
 How it Works:
 1. Introduce us to a project that needs an security review via our contacts above.
 2. Get your 20% percent of the total audit cost after our delivery/payments from the protocol team. 
