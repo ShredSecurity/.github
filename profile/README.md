@@ -26,15 +26,13 @@ Solidity, Rust(Solana, Soroban etc), Go, Clarity, Python, Move(Sui Aptos), Vyper
 
 ## The Team
 
-#### Founding Security Researchers
+#### Co-founders
 - [**kenzo**](https://x.com/kenzowhitehat)
 - [**yashar**](https://x.com/yashar0x)
 
 #### Lead Security Researchers
-- [**0xrex**](https://x.com/jvorex_)
-
-#### Security Researchers
-- [**chupinexx**](https://x.com/chupinexx)
+- [**0xrex (Head of Security)**](https://x.com/jvorex_)
+- [**chupinexx (Head of Business)**](https://x.com/chupinexx)
 
 ## Check our full portfolio 
 [here](https://github.com/ShredSecurity/audits/blob/main/README.md#audit-competition-results)
