@@ -45,7 +45,7 @@ If you're serious about the security of your protocol and want your code audited
 
 **Alternative Contacts:**
 
-- [Twitter](https://x.com/shredscrt)
+- [Twitter](https://x.com/ShredSecurity)
 - [Website](https://shredsec.xyz/)
 
 ****
