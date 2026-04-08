@@ -3,7 +3,7 @@ Book an audit via [Telegram DM](https://t.me/shredsecurity) or learn more at [sh
 
 ## About Us
 
-Shred Security provides high quality security audits for blockchain and DeFi protocols across different chains. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top competition placements and security partnerships with leading protocols.
+Shred Security is a research-driven security firm specializing in smart contract auditing, threat modeling, and blockchain security. Our audits consistently uncover high-impact vulnerabilities missed by others, backed by a proven track record of top public competition placements and bounty hunting, security partnerships with leading protocols.
 
 ### Specializations
 
